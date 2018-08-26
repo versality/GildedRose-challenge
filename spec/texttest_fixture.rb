@@ -1,4 +1,4 @@
-require_relative 'spec_helper'
+require_relative '../lib/gilded_rose'
 
 items = [
   GildedRose::Item.new(name="+5 Dexterity Vest", sell_in=10, quality=20),
